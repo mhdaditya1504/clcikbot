@@ -1,0 +1,18 @@
+{
+    "walletltc": "MEfEXvKH1kTmbpWZB6ondXbaP6uGgBH8p1",
+    "walletdoge": "DKeukewi6Sye6MkkDfGiuEjmMHhVyZeDSM",
+    "walletzec": "t1NRKqJS1e625XuiwphWHJEHLL5Mphap9Px",
+    "walletbch": "qz38tz6gffrlsx4dajcjaarladl00aye9u8w0svfxf",
+    "walletbtc": "/cancel",
+    "ref_ltc": "xXYz",
+    "ref_doge": "8lMJ",
+    "ref_zec": "qKn5",
+    "ref_bch": "m0HW",
+    "ref_btc": "code_referal berada di ujung start= kode",
+    "fitur":{
+        "auto_wd":"on",
+        "msg":"on",
+        "visit":"on",
+        "join":"on"
+    }
+}
